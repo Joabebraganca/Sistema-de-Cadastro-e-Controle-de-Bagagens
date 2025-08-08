@@ -1,12 +1,12 @@
-# 🛄 Sistema de Cadastro e Controle de Bagagens
+# Sistema de Cadastro e Controle de Bagagens
 
-## 📌 Descrição
+## Descrição
 Este projeto é um sistema simples, desenvolvido em **Python**, que simula o acesso e as funcionalidades básicas de um sistema de cadastro de clientes para viagens e controle de limite de bagagens.  
 O sistema possui autenticação de usuário e senha, cadastro de clientes e verificação das regras de despacho de bagagem de acordo com a categoria do cliente.
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 - **Login** com usuário e senha  
 - **Menu interativo** com três opções:
   1. **Cadastro de cliente**: solicita nome, CPF, altura e ano de nascimento, calculando idade e verificando idade mínima (≥ 16 anos).  
@@ -15,12 +15,12 @@ O sistema possui autenticação de usuário e senha, cadastro de clientes e veri
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **Python 3.x**  
 
 ---
 
-## 📂 Estrutura do Código
+##  Estrutura do Código
 O código é organizado em:
 1. **Autenticação**: valida se o usuário é `ADMIN` e a senha é `123`.
 2. **Menu principal**: laço `while` para apresentar e executar as opções.
@@ -29,7 +29,7 @@ O código é organizado em:
 
 ---
 
-## 📥 Como Executar
+##  Como Executar
 1. Instale o Python 3 em sua máquina ([Download Python](https://www.python.org/downloads/)).
 2. Salve o código em um arquivo com o nome, por exemplo:
    ```
@@ -42,7 +42,7 @@ O código é organizado em:
 
 ---
 
-## 📋 Exemplo de Uso
+##  Exemplo de Uso
 ```
 Informe o usuário que deseja acessar o sistema: ADMIN
 Informe a senha: 123
@@ -66,6 +66,6 @@ Por favor, informe o ano de nascimento: 1990
 
 ---
 
-## 👤 Autor
+## Autor
 - Joabe Bragança 
 
